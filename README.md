@@ -15,6 +15,6 @@ I consider myself a smart worker, and a collaborative team player. *Passionately
 <img src="https://github-readme-stats.vercel.app/api?username=emem365&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" align="right"/>
 
 #### Find me here : 
-My Instagram is right here👉 [<img src = "https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=fff" />](http://instagram.com/itsmadhur_)
+My Instagram is right here👉 [<img src = "https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=fff" />](http://instagram.com/dev.emem365)
 
 My LinkedIn is right here👉  [<img src = "https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=fff" />](https://www.linkedin.com/mwlite/in/madhur-maurya-b4a8a71ab) 
